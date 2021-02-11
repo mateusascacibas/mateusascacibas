@@ -9,6 +9,6 @@
   
 ###  Sobre
 
-! [Estatísticas do GitHub de Mateus] (https://github-readme-stats.vercel.app/api ? Username = mateusascacibas & theme = dark & ​​show_icons = true )
+![Estatísticas do GitHub de Mateus] (https://github-readme-stats.vercel.app/api ? Username = mateusascacibas & theme = dark & ​​show_icons = true )
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
