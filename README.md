@@ -4,7 +4,6 @@
    <a href="https://www.linkedin.com/in/mateus-a-62a907142/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mateus Ascacibas da Silva LinkedIn Profile" height="30" width="30">
   </a>
-</p
   
 <h4 align="center">Contagem de visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Mateus-Ascacibas}/count.svg" alt="mateusascacibas :: Visitor's Count" /></p>
