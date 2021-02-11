@@ -3,7 +3,7 @@
 
 # Mateus Ascacibas
 <h4 align="center">Contagem de visitantes :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{dayellesouza}/count.svg" alt="dayellesouza :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mateusascacibas}/count.svg" alt="mateusascacibas :: Visitor's Count" /></p>
 
 <p align="center">
   
