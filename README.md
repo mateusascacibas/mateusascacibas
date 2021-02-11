@@ -6,7 +6,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{dayellesouza}/count.svg" alt="dayellesouza :: Visitor's Count" /></p>
 
 ###  Sobre
+<p align="center">
 ![Mateus Status](https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true)
+  <p/
 
 
 ![Estatísticas do GitHub de Mateus] (https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=radical)
