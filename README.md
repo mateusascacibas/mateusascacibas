@@ -5,10 +5,13 @@
 <h4 align="center">Contagem de visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Mateus-Ascacibas}/count.svg" alt="mateusascacibas :: Visitor's Count" /></p>
 
-<p align="center">
+
   
 ###  Sobre
+<p align="center">
+[![Mateus stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/mateusascacibas/github-readme-stats)
+</p>
 
-![Estatísticas do GitHub de Mateus] (https://github-readme-stats.vercel.app/api ? Username = mateusascacibas & theme = dark & ​​show_icons = true )
-
+<p align="center">
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
