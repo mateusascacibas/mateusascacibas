@@ -16,6 +16,5 @@
 <a href="https://github.com/ahampriyanshu">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&hide_border=true&langs_count=10&layout=compact&theme=dark" />
 </a>
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark" alt="mateusascacibas :: Profile Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark" alt="mateusascacibas :: Profile Stats" /></p>
 
