@@ -21,6 +21,11 @@
 
 <div style="display: inline-block"><br>
                <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+               <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+               <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+               <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+               <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
 </div>
          
             
