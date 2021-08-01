@@ -1,4 +1,5 @@
-### Olá, sou o Mateus, formado em Análise e desenvolvimento de sistemas na UNIP, formado também em Técnico em informática no Senac. Amante de programação e desafios profissionais. Atualmente cursando Desenvolvimento de tecnologias digitais, e atuando como desenvolvedor Trainee nas linguagens Java e Angular.💬
+### Olá, sou o Mateus, formado em Análise e desenvolvimento de sistemas na UNIP, formado também em Técnico em informática no Senac. Amante de programação e desafios profissionais.
+Atualmente cursando Desenvolvimento de tecnologias digitais, e atuando como desenvolvedor Trainee nas linguagens Java e Angular.💬
 
 
 <p align = "center" >
