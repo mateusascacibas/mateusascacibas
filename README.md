@@ -20,7 +20,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark" alt="Mateus Ascacibas :: Profile Stats" /></p>
 
 <div style="display: inline-block><br>
-            <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-                <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://github.com/devicons/devicon/tree/master/icons/java/java-original.svg">
-                </div>
+         
             
