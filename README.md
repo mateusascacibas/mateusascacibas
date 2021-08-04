@@ -35,6 +35,7 @@
 <p align = "center">
  <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=mateusascacibas&theme=xcode">
 </p> 
+<div align = "center">
 <a href="https://github.com/mateusascacibas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&layout=compact&langs_count=7&theme=dark"/>
@@ -42,7 +43,7 @@
 </div>
 
  <br>
-<div> 
+<div align = "center" > 
   <a href="https://www.instagram.com/ascacibas_mateus/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/mateus-a-62a907142/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mateus Ascacibas da Silva LinkedIn Profile" height="30" width="30">
