@@ -15,11 +15,11 @@
 <p align="center">
    
 <div>
-<a href="https://github.com/mateusascacibas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline-block"><br>
+ 
+ <h2 align="center">Linguagens e ferramentas</h2>
+
+<p align="center">
+ <div style="display: inline-block"><br>
                <img align="center" alt="Mateus-C#" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
                <img align="center" alt="Mateus-C" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
                <img align="center" alt="Mateus-Java" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -30,6 +30,12 @@
     <img align="center" alt="Mateus-Typescript" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    
 </div>
+</p>
+<a href="https://github.com/mateusascacibas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
  <br>
 <div> 
   <a href="https://www.instagram.com/ascacibas_mateus/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
