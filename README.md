@@ -31,9 +31,14 @@
    
 </div>
 </p>
+
+<p align = "center">
+ <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=mateusascacibas&theme=xcode">
+</p> 
 <a href="https://github.com/mateusascacibas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusascacibas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusascacibas&layout=compact&langs_count=7&theme=dark"/>
+ <img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=mateusascacibas&show_icons=true&locale=en&layout=compact&theme=dark" />
 </div>
 
  <br>
