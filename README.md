@@ -1,6 +1,15 @@
 ### Olá, sou o Mateus, formado em Análise e desenvolvimento de sistemas na UNIP, formado também em Técnico em informática no Senac. Amante de programação e desafios profissionais. 
 ### Atualmente cursando Desenvolvimento de tecnologias digitais e atuando como desenvolvedor Trainee nas linguagens Java e Angular.💬
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/mateusascacibas/mateusascacibas"/> 
+ <img src="https://komarev.com/ghpvc/?username=mateusascacibas&color=brightgreen"/> 
+ <img src="https://badges.pufler.dev/years/mateusascacibas"/>
+ <img src="https://badges.pufler.dev/repos/mateusascacibas"/>
+ <img src="https://badges.pufler.dev/commits/monthly/mateusascacibas" />
+
+</p>
 
 <p align = "center" >
 <h4 align="center">Contagem de visitantes :eyes:</h4>
