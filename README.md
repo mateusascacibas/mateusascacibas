@@ -2,9 +2,7 @@
 ### Atualmente cursando Desenvolvimento de tecnologias digitais e atuando como desenvolvedor Trainee nas linguagens Java e Angular.💬
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/mateusascacibas/mateusascacibas"/> 
- <img src="https://komarev.com/ghpvc/?username=mateusascacibas&color=brightgreen"/> 
+
  <img src="https://badges.pufler.dev/years/mateusascacibas"/>
  <img src="https://badges.pufler.dev/repos/mateusascacibas"/>
  <img src="https://badges.pufler.dev/commits/monthly/mateusascacibas" />
