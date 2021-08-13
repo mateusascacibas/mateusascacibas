@@ -49,6 +49,10 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mateus Ascacibas da Silva LinkedIn Profile" height="30" width="30">
   </a>
  
+ <img src="https://img.shields.io/static/v1?label=Devops&message=Git&color=7159c1&style=for-the-badge%logo=ghost"/>
+ <img src="https://img.shields.io/static/v1?label=Front-End&message=Angular&color=a6120d&style=for-the-badge%logo=ghost"/>
+ <img src="https://img.shields.io/static/v1?label=Back-End&message=Java&color=f67317&style=for-the-badge%logo=ghost"/>
+ 
   ![Snake animation](https://github.com/mateusascacibas/mateusascacibas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
