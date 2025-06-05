@@ -19,6 +19,5 @@
 
 ## 📌 Featured Projects
 - [Agiliza Correria](https://agilizacorreria.web.app/): Delivery Management System
-- [Filme de Hoje?](https://play.google.com/store/apps/details?id=com.mateus.filmproject): Flutter Mobile App
 - [Filmaria Website](https://filmariamateus.netlify.app/): React Web App
 - [Task Manager](https://gerenciador-tarefas-ce173.web.app/): Angular + Firebase Web App
